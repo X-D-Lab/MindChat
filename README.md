@@ -1,1 +1,2 @@
-# MindChat
+# MindChat漫谈
+
