@@ -11,6 +11,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/graphs/contributors)  
 </div>
+<div align=center><img width = '400' height ='400' src ="./image/logo-github.png"/></div>  
 
 ### 模型介绍
 
