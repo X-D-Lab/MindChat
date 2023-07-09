@@ -1,9 +1,16 @@
 <h1 align="center">MindChat(漫谈): 心理大模型</h1>
-<p align="center">
 
 <p align="center">
 <a href="https://github.com/X-D-Lab/MindChat"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
+<a href="https://modelscope.cn/models/thomas/MindChat-InternLM/summary"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
 </p> 
+
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/fork)
+[![GitHub Contributors](https://img.shields.io/github/contributors/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/graphs/contributors)  
+</div>
 
 ### 模型介绍
 
