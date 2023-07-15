@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/X-D-Lab/MindChat"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
-<a href="https://modelscope.cn/models/thomas/MindChat-InternLM/summary"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
+<a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
 </p> 
 
 <div align="center">
@@ -12,6 +12,12 @@
 [![GitHub Contributors](https://img.shields.io/github/contributors/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/graphs/contributors)  
 </div>
 <div align=center><img src ="./image/logo-github.png"/></div>  
+
+### 模型进展
+
+* Jul 15, 2023 MindChat-Baichuan-13B训练完成, 作为**首个百亿级参数的心理大模型**正式开源; 
+* Jul 9, 2023 MindChat-beta训练完成, 并正式开源; 
+* Jul 6, 2023 首次提交MindChat; 
 
 ### 模型介绍
 
@@ -26,8 +32,9 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 还�
 | 模型名称 | lora权重 | 合并后的权重 |
 | :----: | :----: | :----: |
 | MindChat-beta | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/MindChat-InternLM/summary) / huggingface |
+| MindChat-Baichuan-13B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / huggingface |
 
-目前, 已经开源了**MindChat-beta**版本的MindChat心理大模型. 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
+目前, 已经开源了**MindChat-Baichuan-13B**版本的百亿级MindChat心理大模型. 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
 
 此外, 本团队同时关注人们的身理健康, 建有安全、可靠、普惠的[中文医疗大模型孙思邈(Sunsimiao)](https://github.com/X-D-Lab/Sunsimiao), 欢迎下载使用, 敬请批评指证!
 
