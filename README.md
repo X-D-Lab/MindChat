@@ -66,6 +66,6 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 还�
 }
 ```
 
-### Star History
+### 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=X-D-Lab/MindChat&type=Date)](https://star-history.com/#X-D-Lab/MindChat&Date)
