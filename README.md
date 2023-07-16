@@ -32,6 +32,7 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 还�
 | 模型名称 | lora权重 | 合并后的权重 |
 | :----: | :----: | :----: |
 | MindChat-beta | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/MindChat-InternLM/summary) / huggingface |
+| MindChat-6B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-6B/summary) / huggingface |
 | MindChat-Baichuan-13B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / huggingface |
 
 目前, 已经开源了**MindChat-Baichuan-13B**版本的百亿级MindChat心理大模型. 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
