@@ -7,6 +7,8 @@
 
 <div align="center">
 
+[![GitHub license](https://img.shields.io/github/license/X-D-Lab/MindChat
+)](https://github.com/X-D-Lab/MindChat/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/graphs/contributors)  
@@ -47,6 +49,8 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 还�
 2. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
 
 ### ⚠️ 免责申明
+
+本仓库所有开源代码及模型均遵循GPL-3.0许可认证. 开源模型可能存在以下局限. 欢迎商业交流与合作!
 
 1. **MindChat**存在固有的局限性, 可能产生错误的、有害的、冒犯性的或其他不良的输出. 用户在关键或高风险场景中应谨慎行事, 不要使用这些模型作为最终决策参考, 以免导致人身伤害、财产损失或重大损失. 
 
