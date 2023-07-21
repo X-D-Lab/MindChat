@@ -34,7 +34,6 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
 
 | 模型名称 | lora权重 | 合并后的权重 |
 | :----: | :----: | :----: |
-
 | MindChat-7B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-7B/summary) / huggingface |
 | MindChat-Baichuan-13B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / huggingface |
 
