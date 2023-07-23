@@ -107,7 +107,14 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
 
 1. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 2. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路、模型存储和体验空间
-
+```
+@misc{2023internlm,
+    title={InternLM: A Multilingual Language Model with Progressively Enhanced Capabilities},
+    author={InternLM Team},
+    howpublished = {\url{https://github.com/InternLM/InternLM-techreport}},
+    year={2023}
+}
+```
 **针对不同用户需求和应用场景, 我们也热情欢迎商业交流和合作, 为各位客户提供个性化的开发和升级服务!**
 
 ## ⚠️ 免责申明
