@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://github.com/X-D-Lab/MindChat"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
 <a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
+<a href="https://openi.pcl.ac.cn/XD-LAB/MindChat"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
 </p> 
 
 <div align="center">
@@ -17,6 +18,7 @@
 
 ## 💪 模型进展
 
+* Jul 23, 2023: 提供MindChat体验地址: [MindChat-创空间](https://modelscope.cn/studios/X-D-Lab/MindChat/summary), 欢迎体验
 * Jul 21, 2023: MindChat-7B训练完成, 在**模型安全、共情输出、人类价值观对齐**等方面进行针对性强化; 
 * Jul 15, 2023: MindChat-Baichuan-13B训练完成, 作为**首个百亿级参数的心理大模型**正式开源; 
 * Jul 9, 2023: MindChat-beta训练完成, 并正式开源; 
