@@ -4,4 +4,4 @@ cpm_kernels
 sentencepiece
 streamlit
 transformers_stream_generator
-gradio
+gradio==3.37
