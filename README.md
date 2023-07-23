@@ -103,10 +103,12 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
 
 ## 🙇‍ ‍致谢
 
-本项目由**华东理工大学 薛栋教授课题组**发起, 并受到以下项目及平台的大力支持, 在此表示感谢!
+本项目由**华东理工大学 薛栋教授课题组**发起, 并受到以下平台及项目的大力支持, 在此表示感谢!
 
 1. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 2. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路、模型存储和体验空间
+3. [InternLM](https://github.com/InternLM/InternLM)、[Baichuan](https://github.com/baichuan-inc)提供非常优秀的基础模型
+
 ```
 @misc{2023internlm,
     title={InternLM: A Multilingual Language Model with Progressively Enhanced Capabilities},
@@ -115,6 +117,7 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
     year={2023}
 }
 ```
+
 **针对不同用户需求和应用场景, 我们也热情欢迎商业交流和合作, 为各位客户提供个性化的开发和升级服务!**
 
 ## ⚠️ 免责申明

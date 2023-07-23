@@ -1,9 +1,8 @@
 import time
 
 import gradio as gr
-from transformers import AutoModelForCausalLM, AutoTokenizer
-
 from modelscope.hub.snapshot_download import snapshot_download
+from transformers import AutoModelForCausalLM, AutoTokenizer
 
 title = "🐋MindChat: 漫谈心理大模型"
 
