@@ -1,8 +1,30 @@
+import os
 import time
 
 import gradio as gr
+import torch
 from modelscope.hub.snapshot_download import snapshot_download
 from transformers import AutoModelForCausalLM, AutoTokenizer
+from transformers.generation.utils import GenerationConfig
+
+cache_dir = './'
+
+snapshot_download('X-D-Lab/MindChat-Baichuan-13B',
+                  cache_dir=cache_dir,
+                  revision='v1.0.2')
+
+tokenizer = AutoTokenizer.from_pretrained(cache_dir +
+                                          "X-D-Lab/MindChat-Baichuan-13B",
+                                          use_fast=False,
+                                          trust_remote_code=True)
+model = AutoModelForCausalLM.from_pretrained(cache_dir +
+                                             "X-D-Lab/MindChat-Baichuan-13B",
+                                             device_map="auto",
+                                             torch_dtype=torch.float16,
+                                             trust_remote_code=True)
+model.generation_config = GenerationConfig.from_pretrained(
+    cache_dir + "X-D-Lab/MindChat-Baichuan-13B")
+
 
 title = "🐋MindChat: 漫谈心理大模型"
 
@@ -13,45 +35,44 @@ description = """
 
 🙅‍ 目前，MindChat还不能替代专业的心理医生和心理咨询师，无法做出专业的心理诊断报告。虽MindChat在训练过程中极致注重模型安全和价值观正向引导，但仍无法保证模型输出正确且无害，内容上模型作者及平台不承担相关责任。
 
-👏 欢迎关注：[MindChat Github](https://github.com/X-D-Lab/MindChat)
+👏 更为优质、安全、温暖的模型正在赶来的路上，欢迎关注：[MindChat Github](https://github.com/X-D-Lab/MindChat)
 """
-
 submit_btn = '发送'
-
 retry_btn = '🔄 重新生成'
-
 undo_btn = '↩️ 撤销'
-
 clear_btn = '🗑️ 清除历史'
 
-cache_dir = './'
 
-
-snapshot_download('X-D-Lab/MindChat-7B',
-                              cache_dir=cache_dir,
-                              revision='v1.0.0')
-
-tokenizer = AutoTokenizer.from_pretrained(cache_dir + "X-D-Lab/MindChat-7B", trust_remote_code=True)
-model = AutoModelForCausalLM.from_pretrained(cache_dir + "X-D-Lab/MindChat-7B", trust_remote_code=True).cuda()
-model = model.eval()
-
-
-def stream_predict(message, history):
-    dictionary  = {
-        'prompt': message
-    }
+def predict(message, history):
+    dictionary = {'prompt': message}
     print(dictionary)
     if history is None:
         history = []
-    
-    response, history = model.chat(tokenizer, message, history=history)
-    print(history)
+    history = history[-3:]
+    model_input = []
+    for chat in history:
+        model_input.append({"role": "user", "content": chat[0]})
+        model_input.append({"role": "assistant", "content": chat[1]})
+    model_input.append({"role": "user", "content": message})
+    print(model_input)
+    response = model.chat(tokenizer, model_input)
+    print(response)
+
+    history.append((message, response))
 
     for i in range(len(response)):
-        time.sleep(0.03)
-        yield  response[: i+1]
+        time.sleep(0.02)
+        yield response[:i + 1]
 
-demo = gr.ChatInterface(stream_predict, title=title, description=description, cache_examples=True, submit_btn=submit_btn, retry_btn=retry_btn, clear_btn=clear_btn, undo_btn=undo_btn).queue()
+
+demo = gr.ChatInterface(predict,
+                        title=title,
+                        description=description,
+                        cache_examples=True,
+                        submit_btn=submit_btn,
+                        retry_btn=retry_btn,
+                        clear_btn=clear_btn,
+                        undo_btn=undo_btn).queue()
 
 if __name__ == "__main__":
     demo.launch()
