@@ -19,7 +19,7 @@
 
 ## 💪 模型进展
 
-**更好的模型永远在路上!**
+**🔥更好的模型永远在路上!🔥**
 
 * Jul 23, 2023: 提供MindChat体验地址: [MindChat-创空间](https://modelscope.cn/studios/X-D-Lab/MindChat/summary), 欢迎体验
 * Jul 21, 2023: MindChat-InternLM-7B训练完成, 在**模型安全、共情输出、人类价值观对齐**等方面进行针对性强化; 
