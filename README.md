@@ -40,20 +40,20 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
 
 ## 🔥 模型列表
 
-| 模型名称 | lora权重 | 合并后的权重 |
-| :----: | :----: | :----: |
-| MindChat-InternLM-7B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-7B/summary) / huggingface |
-| MindChat-Baichuan-13B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / huggingface |
+| 模型名称 | 合并后的权重 |
+| :----: | :----: |
+| MindChat-InternLM-7B | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-7B/summary) / huggingface |
+| MindChat-Baichuan-13B | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / huggingface |
 
-目前, 已经开源了**MindChat-Baichuan-13B**版本的百亿级MindChat心理大模型. 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
+目前, MindChat已经开源了**MindChat-Baichuan-13B**版本的百亿级MindChat心理大模型. 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
 
 此外, 本团队同时关注人们的身理健康, 建有安全、可靠、普惠的[中文医疗大模型孙思邈(Sunsimiao)](https://github.com/X-D-Lab/Sunsimiao), 欢迎下载使用, 敬请批评指证!
 
 ## 📖 对话案例
 
-我们对模型进行了**学习**、**家庭**、**工作**、**朋友**、**安全**这五个方面进行了测试  
+目前我们对模型进行了**学习**、**家庭**、**工作**、**朋友**、**安全**这五个方面进行了测试, 后续将整理并提供更为全面的评测结果.
 
-以下是部分案例的摘录, 更多对话案例及比较请见[**此处**](./assets/Dialogue_cases/)
+以下是部分案例的摘录, 更多对话案例及比较请见[**此处**](./assets/Dialogue_cases/).
 
 ### 🥺 学习
 
