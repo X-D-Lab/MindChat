@@ -6,6 +6,7 @@
 <a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
 <a href="https://openi.pcl.ac.cn/XD-LAB/MindChat"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
 <a href="https://www.bilibili.com/video/BV1tz4y1x79N/?share_source=copy_web&vd_source=8162f92b2a1a94035ca9e4e0f6e1860a"><img src="https://img.shields.io/badge/-bilibili-ff69b4" alt="bilibili"></a> 
+<a href="https://openxlab.org.cn/models/detail/thomas-yanxin/MindChat-InternLM-7B"><img src="https://img.shields.io/badge/-openxlab-1074B0" alt="OpenXLab"></a> 
 </p> 
 
 <div align="center">
