@@ -43,8 +43,8 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
 
 | 模型名称 | 合并后的权重 |
 | :----: | :----: |
-| MindChat-InternLM-7B | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-7B/summary) / [huggingface](https://huggingface.co/X-D-Lab/MindChat-7B) |
-| MindChat-Baichuan-13B | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [huggingface](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) |
+| MindChat-InternLM-7B | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-7B/summary) / [huggingface](https://huggingface.co/X-D-Lab/MindChat-7B) / [OpenXLab](https://openxlab.org.cn/models/detail/thomas-yanxin/MindChat-InternLM-7B) |
+| MindChat-Baichuan-13B | [modelscope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [huggingface](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab |
 
 目前, MindChat已经开源了**MindChat-Baichuan-13B**版本的百亿级MindChat心理大模型. 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
 
@@ -86,7 +86,7 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
 
 本项目由**华东理工大学 薛栋教授课题组**发起, 并受到以下平台及项目的大力支持, 在此表示感谢!
 1. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
-2. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路、模型存储和体验空间
+2. [魔搭ModelScope](https://modelscope.cn/home)、[OpenXLab](https://openxlab.org.cn/home): 模型存储和体验空间
 3. [InternLM](https://github.com/InternLM/InternLM)、[Baichuan](https://github.com/baichuan-inc)提供非常优秀的基础模型
 
 特别感谢**合肥综合性国家科学中心人工智能研究院普适心理计算团队 孙晓教授**对本项目的专业性指导.
