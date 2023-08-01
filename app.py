@@ -25,7 +25,6 @@ model = AutoModelForCausalLM.from_pretrained(cache_dir +
 model.generation_config = GenerationConfig.from_pretrained(
     cache_dir + "X-D-Lab/MindChat-Baichuan-13B")
 
-
 title = "🐋MindChat: 漫谈心理大模型"
 
 description = """
