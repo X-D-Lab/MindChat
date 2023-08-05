@@ -22,7 +22,7 @@
 ## 💪 模型进展
 
 **🔥更好的模型永远在路上!🔥**
-
+* Aug 5, 2023: MindChat-Qwen-7B训练完成; 
 * Jul 23, 2023: 提供MindChat体验地址: [MindChat-创空间](https://modelscope.cn/studios/X-D-Lab/MindChat/summary)、[![Open in OpenXLab](https://cdn-static.openxlab.org.cn/app-center/openxlab_app.svg)](https://openxlab.org.cn/apps/detail/thomas-yanxin/MindChat), 欢迎体验
 * Jul 21, 2023: MindChat-InternLM-7B训练完成, 在**模型安全、共情输出、人类价值观对齐**等方面进行针对性强化; 
 * Jul 15, 2023: MindChat-Baichuan-13B训练完成, 作为**首个百亿级参数的心理大模型**正式开源; 
@@ -44,6 +44,7 @@ MindChat的创新之处在于它不仅是一款高效的心理咨询工具, 预�
 | 模型名称 | 合并后的权重 |
 | :----: | :----: |
 | MindChat-InternLM-7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-7B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-7B) / [OpenXLab](https://openxlab.org.cn/models/detail/thomas-yanxin/MindChat-InternLM-7B) |
+| MindChat-Qwen-7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) / [HuggingFace]() / [OpenXLab]() |
 | MindChat-Baichuan-13B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab |
 
 目前, MindChat已经开源了**MindChat-Baichuan-13B**版本的百亿级MindChat心理大模型. 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
