@@ -1,3 +1,5 @@
+# coding:utf-8
+import json
 import os
 import time
 
@@ -9,21 +11,18 @@ from transformers.generation.utils import GenerationConfig
 
 cache_dir = './'
 
-snapshot_download('X-D-Lab/MindChat-Baichuan-13B',
+snapshot_download('X-D-Lab/MindChat-Qwen-7B',
                   cache_dir=cache_dir,
-                  revision='v1.0.2')
+                  revision='v1.0.0')
 
 tokenizer = AutoTokenizer.from_pretrained(cache_dir +
-                                          "X-D-Lab/MindChat-Baichuan-13B",
-                                          use_fast=False,
-                                          trust_remote_code=True)
+                                          "X-D-Lab/MindChat-Qwen-7B", trust_remote_code=True)
 model = AutoModelForCausalLM.from_pretrained(cache_dir +
-                                             "X-D-Lab/MindChat-Baichuan-13B",
-                                             device_map="auto",
-                                             torch_dtype=torch.float16,
-                                             trust_remote_code=True)
-model.generation_config = GenerationConfig.from_pretrained(
-    cache_dir + "X-D-Lab/MindChat-Baichuan-13B")
+                                          "X-D-Lab/MindChat-Qwen-7B", device_map="auto", trust_remote_code=True, fp16=True).eval()
+model.generation_config = GenerationConfig.from_pretrained(cache_dir +
+                                          "X-D-Lab/MindChat-Qwen-7B", trust_remote_code=True) 
+
+
 
 title = "🐋MindChat: 漫谈心理大模型"
 
@@ -43,19 +42,11 @@ clear_btn = '🗑️ 清除历史'
 
 
 def predict(message, history):
-    dictionary = {'prompt': message}
-    print(dictionary)
+
     if history is None:
         history = []
-    history = history[-3:]
-    model_input = []
-    for chat in history:
-        model_input.append({"role": "user", "content": chat[0]})
-        model_input.append({"role": "assistant", "content": chat[1]})
-    model_input.append({"role": "user", "content": message})
-    print(model_input)
-    response = model.chat(tokenizer, model_input)
-    print(response)
+    history = history[-20:]
+    response, history = model.chat(tokenizer, message, history=history) 
 
     history.append((message, response))
 
@@ -73,5 +64,4 @@ demo = gr.ChatInterface(predict,
                         clear_btn=clear_btn,
                         undo_btn=undo_btn).queue()
 
-if __name__ == "__main__":
-    demo.launch()
+demo.launch()
