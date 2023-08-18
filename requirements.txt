@@ -8,3 +8,4 @@ modelscope
 gradio==3.37
 tiktoken 
 einops
+transformers
