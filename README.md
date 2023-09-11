@@ -93,14 +93,14 @@
 | :----: | :---- |
 | 模型训练 | [颜鑫](https://github.com/thomas-yanxin)、[王明](https://github.com/w-sunmoon) |
 | 模型测试 | 唐井楠、刘建成 |
-| 数据构建 | [*袁泽](https://github.com/yzyz-77)、张思源、吴佳阳、王邦儒、孙晗煜 |
+| 数据构建 | [袁泽*](https://github.com/yzyz-77)、张思源、吴佳阳、王邦儒、孙晗煜 |
 
 ## 🙇‍ ‍致谢
 
 在项目进行中受到以下平台及项目的大力支持, 在此表示感谢!
 
 1. **OpenI启智社区**：提供模型训练算力；
-2. **InternLM、Baichuan**提供非常优秀的基础模型。
+2. **Qwen、InternLM、Baichuan**提供非常优秀的基础模型；
 3. **魔搭ModelScope、OpenXLab、Huggingface**：模型存储和体验空间.
 
 特别感谢**合肥综合性国家科学中心人工智能研究院普适心理计算团队 孙晓研究员**、**哈尔滨工业大学 刘方舟教授**对本项目的专业性指导!  
