@@ -17,6 +17,11 @@
 [![GitHub Forks](https://img.shields.io/github/forks/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/graphs/contributors)  
 </div>
+<div align="center">
+    
+**体验地址**: [**ModelScope**](https://modelscope.cn/studios/X-D-Lab/MindChat/summary)、[**OpenXLab**](https://openxlab.org.cn/apps/detail/thomas-yanxin/MindChat)
+
+</div>
 <div align=center><img src ="./assets/image/logo-github.png"/></div>  
 
 ## 💪 模型进展
