@@ -102,7 +102,7 @@
 | 模型训练 | [颜鑫](https://github.com/thomas-yanxin)、[王明](https://github.com/w-sunmoon) |
 | 模型测试 | 唐井楠、刘建成 |
 | 数据构建 | [袁泽*](https://github.com/yzyz-77)、张思源、吴佳阳、王邦儒、孙晗煜 |
-| 商业企划 | 陈心怡、林诗颖 |
+| 商业企划 | 陈心怡、林诗颖、黎栋梁 |
 
 ## 🙇‍ ‍致谢
 
