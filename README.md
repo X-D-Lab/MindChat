@@ -4,6 +4,7 @@
 <a href="https://github.com/X-D-Lab/MindChat"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
 <a href="https://huggingface.co/X-D-Lab"><img src="https://img.shields.io/badge/-HuggingFace-yellow" alt="HuggingFace"></a>
 <a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
+<a href="https://aistudio.baidu.com/community/app/30058"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
 <a href="https://openi.pcl.ac.cn/XD-LAB/MindChat"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
 <a href="https://wisemodel.cn/models/X-D%20Lab/MindChat"><img src="https://img.shields.io/badge/wisemodel-561253" alt="wisemodel"></a>
 <a href="https://www.bilibili.com/video/BV1tz4y1x79N/?share_source=copy_web&vd_source=8162f92b2a1a94035ca9e4e0f6e1860a"><img src="https://img.shields.io/badge/-bilibili-ff69b4" alt="bilibili"></a> 
