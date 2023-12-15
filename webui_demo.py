@@ -23,7 +23,6 @@ model.generation_config = GenerationConfig.from_pretrained(cache_dir +
                                           "X-D-Lab/MindChat-Qwen-7B", trust_remote_code=True) 
 
 
-
 title = "🐋MindChat: 漫谈心理大模型"
 
 description = """
@@ -35,6 +34,7 @@ description = """
 
 👏 更为优质、安全、温暖的模型正在赶来的路上，欢迎关注：[MindChat Github](https://github.com/X-D-Lab/MindChat)
 """
+
 submit_btn = '发送'
 retry_btn = '🔄 重新生成'
 undo_btn = '↩️ 撤销'
