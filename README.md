@@ -52,11 +52,12 @@
 
 ## 🔥 模型列表
 
-| 模型名称 | 合并后的权重 |
-| :----: | :----: |
-| *MindChat-Qwen-7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) / OpenXLab |
-| MindChat-InternLM-7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-7B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-7B) / [OpenXLab](https://openxlab.org.cn/models/detail/thomas-yanxin/MindChat-InternLM-7B) |
-| MindChat-Baichuan-13B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab |
+| 模型名称 | 模型参数 | 权重下载 |
+| :----: | :----: | :----: |
+| *MindChat-Qwen-1_8B | 1.8B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) / OpenXLab |
+| *MindChat-Qwen-7B-v2 | 7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) / OpenXLab |
+| MindChat-Qwen-7B | 7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) / OpenXLab |
+| MindChat-Baichuan-13B | 13B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab |
 
 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
 
