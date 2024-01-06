@@ -56,9 +56,11 @@
 | 模型名称 | 模型参数 | 权重下载 |
 | :----: | :----: | :----: |
 | *MindChat-Qwen-1_8B | 1.8B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B)|
-| *MindChat-Qwen-7B-v2 | 7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat)|
 | MindChat-Qwen-7B | 7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) / OpenXLab / wisemodel|
+| *MindChat-Qwen-7B-v2 | 7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat)|
+| MindChat-Qwen-7B-v3 | 7B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) / HuggingFace / OpenXLab / wisemodel|
 | MindChat-Baichuan-13B | 13B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab / wisemodel|
+| MindChat-Qwen-14B | 14B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) / HuggingFace / OpenXLab / wisemodel|
 
 更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
 
