@@ -62,17 +62,17 @@
 | MindChat-Baichuan-13B | 13B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab / wisemodel|
 | MindChat-Qwen-14B | 14B | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) / HuggingFace / OpenXLab / wisemodel|
 
-更为优质的MindChat模型将在不久的未来对外开源开放. 敬请期待!
+更为优质的MindChat模型将在不久的未来持续对外开源开放. 敬请期待!
 
 此外, 本团队同时关注人们的身理健康, 建有安全、可靠、普惠的[中文医疗大模型孙思邈(Sunsimiao)](https://github.com/X-D-Lab/Sunsimiao), 欢迎下载使用, 敬请批评指证!
 
-## ☁️ 数据词云
+## ☁️ 数据构造
 
-目前MindChat的开源模型采用了经过人工清洗的**约20万条的高质量多轮心理对话数据**进行训练, 涵盖**工作、家庭、学习、生活、社交、安全**等多个方面 
-
+目前MindChat的开源模型采用了基于如下流程构造的**约20万条的高质量多轮心理对话数据**进行训练, 涵盖**工作、家庭、学习、生活、社交、安全**等多个方面 
+![](./assets/image/datasets_flow_chart.jpg) 
 ![](./assets/image/word_cloud.png)
 
-因数据权限限制, 我们目前仅开源了极少量的[数据案例](./data/dataset_example.json). 后续我们将不断完善数据积累, 争取为开源社区贡献一份高质量的多轮心理对话数据, 共同推动开源心理大模型的建设.
+因数据权限限制, 我们目前仅展示了极少量的[数据案例](./data/dataset_example.json). 后续我们将不断完善数据积累, 争取为开源社区贡献一份高质量的多轮心理对话数据, 共同推动开源心理大模型的建设.
 
 ## 📣 对话案例
 
