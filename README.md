@@ -56,13 +56,13 @@
 
 | 模型名称 | 模型参数 | 分类 | 权重下载 |
 | :----: | :----: | :----: | :----: |
-| *MindChat-Qwen-1_8B | 1.8B | 心理抚慰 | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B)|
-| *MindChat-Evaluator-EN-1_8B | 1.8B | 心理评测 | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / HuggingFace / OpenXLab / wisemodel|
-| MindChat-Qwen-7B | 7B | 心理抚慰 | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) / OpenXLab / wisemodel|
-| *MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat)|
-| MindChat-Qwen-7B-v3 | 7B | 心理抚慰 | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) / HuggingFace / OpenXLab / wisemodel|
-| MindChat-Baichuan-13B | 13B | 心理抚慰 | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab / wisemodel|
-| MindChat-Qwen-14B | 14B | 心理抚慰 | [ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) / HuggingFace / OpenXLab / wisemodel|
+| *MindChat-Qwen-1_8B | 1.8B | 心理抚慰 | [<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B)|
+| *MindChat-Evaluator-EN-1_8B | 1.8B | 心理评测 | [<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / 🤗HuggingFace / OpenXLab / wisemodel|
+| MindChat-Qwen-7B | 7B | 心理抚慰 | [<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) / OpenXLab / wisemodel|
+| *MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | [<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat)|
+| MindChat-Qwen-7B-v3 | 7B | 心理抚慰 | [<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) / 🤗HuggingFace / OpenXLab / wisemodel|
+| MindChat-Baichuan-13B | 13B | 心理抚慰 | [<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab / wisemodel|
+| MindChat-Qwen-14B | 14B | 心理抚慰 | [<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) / 🤗HuggingFace / OpenXLab / wisemodel|
 
 更为优质的MindChat模型将在不久的未来持续对外开源开放. 敬请期待!
 
