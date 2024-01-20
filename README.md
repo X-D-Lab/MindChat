@@ -30,7 +30,7 @@
 
 </div>
 
-## 💪 模型进展
+## 🎉 项目进展
 
 **🔥更好的模型永远在路上!🔥**
 * Jan 7, 2024: 提供针对5个维度的英文心理评测模型[MindChat-Evaluator-EN-1_8B](https://modelscope.cn/models/X-D-Lab/MindChat-Evaluator-EN-1_8B/summary) 
@@ -54,15 +54,14 @@
 
 ## 🔥 模型列表
 
-| 模型名称 | 模型参数 | 分类 | 权重下载 |
-| :----: | :----: | :----: | :----: |
-| *MindChat-Qwen-1_8B | 1.8B | 心理抚慰 | [[<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">]](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B) |
-| *MindChat-Evaluator-EN-1_8B | 1.8B | 心理评测 | [[<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">]](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) / 🤗HuggingFace / OpenXLab / wisemodel |
-| MindChat-Qwen-7B | 7B | 心理抚慰 | [[<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">]](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) / OpenXLab / wisemodel|
-| *MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | [[<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">]](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) / OpenXLab / [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat) |
-| MindChat-Qwen-7B-v3 | 7B | 心理抚慰 | [[<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">]](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) / 🤗HuggingFace / OpenXLab / wisemodel |
-| MindChat-Baichuan-13B | 13B | 心理抚慰 | [[<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">]](https://modelscope.cn/models/X-D-Lab/MindChat-Baichuan-13B/summary) / [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-baichuan-13B) / OpenXLab / wisemodel |
-| MindChat-Qwen-14B | 14B | 心理抚慰 | [[<img src="https://g.alicdn.com/sail-web/maas/1.10.1/static/modelscopeIcon.cd89353f.svg" height="12">]](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) / 🤗HuggingFace / OpenXLab / wisemodel |
+| 模型名称 | 模型参数 | 用途分类 | HuggingFace 下载 | ModelScope 下载 | wisemodel 下载 | 权限分类 |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| MindChat-Qwen-1_8B🆕 | 1.8B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B) | 完全开源 |
+| *MindChat-Evaluator-EN-1_8B🆕 | 1.8B | 心理评测 | 🤗HuggingFace | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | / | 申请下载 |
+| MindChat-Qwen-7B | 7B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) | / | 完全开源 |
+| MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat) | 完全开源 |
+| *MindChat-Qwen-7B-v3🆕 | 7B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v3) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) | / | 申请下载 |
+| *MindChat-Qwen-14B🆕 | 14B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-14B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) | / | 申请下载 |
 
 更为优质的MindChat模型将在不久的未来持续对外开源开放. 敬请期待!
 
