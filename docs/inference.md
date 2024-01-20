@@ -47,39 +47,62 @@ print(response)
 * **第一步**: 安装
 您应该安装最新的FastChat包
 
-    ```
+```
     git clone https://github.com/lm-sys/FastChat.git
     cd FastChat
     pip install .
-    ```
+```
 
-* **第二步(可选)**: 环境变量
+* **第二步(可选)**: 环境变量  
 若您希望从魔搭Modelscope下载模型则需要设置两个环境变量
 
-    ```
+    
+
+```
     export VLLM_USE_MODELSCOPE=True
     export FASTCHAT_USE_MODELSCOPE=True
-    ```  
+```  
 
 若您希望从HuggingFace下载模型或者已经将模型存在本地则可跳过本步骤.
 
 * **第三步:** 模型部署
 1. 启动一个controller:
 
-    ```python -m fastchat.serve.controller --host 0.0.0.0```
+```
+
+    python -m fastchat.serve.controller --host 0.0.0.0
+
+```
 
 2. 发布一个model worker(s)  
-    ```python -m fastchat.serve.model_worker --model-path X-D-Lab/MindChat-Qwen-7B-v2 --revision master --host 0.0.0.0```
+```
+
+    python -m fastchat.serve.model_worker --model-path X-D-Lab/MindChat-Qwen-7B-v2 --revision master --host 0.0.0.0
+
+```
 
 * **第四步:** 模型体验
-  - 启动命令行客户端服务  
-    ```python3 -m fastchat.serve.test_message --model-name MindChat-Qwen-7B-v2 --message 总感觉自己学习很差, 想努力, 但是又控制不住想玩游戏.```
+  + 启动命令行客户端服务  
+```
+
+    python3 -m fastchat.serve.test_message --model-name MindChat-Qwen-7B-v2 --message 总感觉自己学习很差, 想努力, 但是又控制不住想玩游戏.
+
+```
 
   + 启动gradio的WebUI服务  
-    ```python3 -m fastchat.serve.gradio_web_server --host 0.0.0.0 --port 8000```
+
+```
+
+    python3 -m fastchat.serve.gradio_web_server --host 0.0.0.0 --port 8000
+
+```
 
 * **第五步:** OpenAI API服务
 
-    ```python -m fastchat.serve.openai_api_server --host 0.0.0.0 --port 8000```
+```
+
+    python3 -m fastchat.serve.openai_api_server --host 0.0.0.0 --port 8000
+
+```
 
 更为详细的信息可以参考[FastChat docs](https://github.com/lm-sys/FastChat/tree/main/docs).
