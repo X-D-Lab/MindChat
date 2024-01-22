@@ -182,3 +182,9 @@
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=X-D-Lab/MindChat&type=Date)](https://star-history.com/#X-D-Lab/MindChat&Date)
+
+## 💬 WeChat Group
+
+如果您对本项目感兴趣, 且愿意和我们交流, 欢迎通过以下二维码入群!
+
+![](./assets/image/wechat_group.jpg)
