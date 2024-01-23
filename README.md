@@ -22,6 +22,13 @@
 [![GitHub Forks](https://img.shields.io/github/forks/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/X-D-Lab/MindChat)](https://github.com/X-D-Lab/MindChat/graphs/contributors)  
 </div>
+
+<div align="center">
+
+👋 **联系我们**: [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=wechat&label=微信)](./assets/image/wechat_group.jpg)
+
+</div>
+
 <div align="center">
 
     
@@ -154,7 +161,7 @@
 
 2. 欢迎专业的心理学人士对MindChat进行专业性指导和需求建议, 鼓励开源社区使用并反馈MindChat, 促进我们对下一代MindChat模型的开发.  
 
-3. MindChat模型对于学术研究完全开放, 但需要遵循[GPL-3.0 license](./LICENSE)将下游模型开源并[引用](#🤝-引用)本Repo. 对MindChat模型进行商用, 请通过组织主页邮箱发送邮件进行细节咨询.
+3. MindChat模型对于学术研究完全开放, 但需要遵循[GPL-3.0 license](./LICENSE)将下游模型开源并[引用](#🤝-引用)本Repo. 对MindChat模型进行商用, 请通过📫邮箱mindchat0606@163.com发送邮件进行细节咨询.
 
 ## ⚠️ 免责声明
 
