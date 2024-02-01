@@ -14,14 +14,25 @@
 
 ## 🔥 模型列表
 
+### 开源模型
+
 | 模型名称 | 模型参数 | 用途分类 | HuggingFace 下载 | ModelScope 下载 | wisemodel 下载 | 权限分类 | 生成2048个token的最小显存占用 | 公开日期 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| MindChat-Qwen-1_8B🆕 | 1.8B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B) | 完全开源 | 2.9GB | 2024.01.01 |
+| MindChat-Qwen-1_8B🆕 | 1.8B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B) | 完全开源 | 2.9GB | 2024.01.01 |
 | *MindChat-Evaluator-EN-1_8B🆕 | 1.8B | 心理评测 | 🤗HuggingFace | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | / | 申请下载 | 2.9GB | 2024.01.08 |
-| MindChat-Qwen-7B | 7B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) | / | 完全开源 | 8.2GB | 2023.08.05 |
-| MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat) | 完全开源 | 8.2GB | 2023.09.04 |
-| *MindChat-Qwen-7B-v3🆕 | 7B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v3) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) | / | 申请下载 | 8.2GB | 2024.01.05 |
-| *MindChat-Qwen-14B🆕 | 14B | 心理抚慰 | [🤗HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-14B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) | / | 申请下载 | 13.0GB | 2024.01.13 |
-| *MindChat-X | / | 心理抚慰 | / | / | / | 商务合作 | / | 2024.01.20 |  
+| MindChat-Qwen-7B | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) | / | 完全开源 | 8.2GB | 2023.08.05 |
+| MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat) | 完全开源 | 8.2GB | 2023.09.04 |
+| *MindChat-Qwen-7B-v3🆕 | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v3) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) | / | 申请下载 | 8.2GB | 2024.01.05 |
+| *MindChat-Qwen-14B🆕 | 14B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-14B) | [<img src="../assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) | / | 申请下载 | 13.0GB | 2024.01.13 |
+
+### 闭源模型
+
+| 模型名称 | 模型参数 | 用途分类 | 权限分类 | 公开日期 |
+| :----: | :----: | :----: | :----: | :----: |
+| MindChat-Tiny | / | 心理抚慰 | 商务合作 | 2024.02.01 |
+| MindChat-Small | / | 心理抚慰 | 商务合作 | / |
+| MindChat-Medium | / | 心理抚慰 | 商务合作 | / |
+| MindChat-Base | / | 心理抚慰 | 商务合作 | 2024.01.20 |
+| MindChat-Large | / | 心理抚慰 | 商务合作 | 2024.01.20 |
 
 *注: 部分信息摘录自[Qwen Repo](https://github.com/QwenLM/Qwen).
