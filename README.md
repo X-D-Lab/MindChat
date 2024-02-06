@@ -9,7 +9,7 @@
 <a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
 <a href="https://aistudio.baidu.com/community/app/30058"><img src="https://img.shields.io/badge/-AIStudio-9cf" alt="AIStudio"></a>
 <a href="https://openi.pcl.ac.cn/XD-LAB/MindChat"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
-<a href="https://wisemodel.cn/models/X-D%20Lab/MindChat"><img src="https://img.shields.io/badge/wisemodel-561253" alt="wisemodel"></a>
+<a href="https://WiseModel.cn/models/X-D%20Lab/MindChat"><img src="https://img.shields.io/badge/WiseModel-561253" alt="WiseModel"></a>
 <a href="https://www.bilibili.com/video/BV1tz4y1x79N/?share_source=copy_web&vd_source=8162f92b2a1a94035ca9e4e0f6e1860a"><img src="https://img.shields.io/badge/-bilibili-ff69b4" alt="bilibili"></a> 
 <a href="https://openxlab.org.cn/apps/detail/thomas-yanxin/MindChat"><img src="https://img.shields.io/badge/-OpenXLab-1074B0" alt="OpenXLab"></a> 
 </p> 
@@ -62,16 +62,16 @@
 
 ## 🔥 模型列表
 
-| 模型名称 | 模型参数 | 用途分类 | HuggingFace 下载 | ModelScope 下载 | wisemodel 下载 | 权限分类 | MBTI分类 |
+| 模型名称 | 模型参数 | 用途分类 | 🤗 HuggingFace 下载 | 🤖 ModelScope 下载 | ✡️ WiseModel 下载 | 权限分类 | MBTI分类 |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| MindChat-Qwen2-0_5B🆕 | 0.5B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen2-0_5B) | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen2-0_5B/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen2-0_5B/intro) | 完全开源 | / |
-| MindChat-Qwen-1_8B🆕 | 1.8B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen-1_8B) | 完全开源 | ENTP |
-| *MindChat-Evaluator-EN-1_8B🆕 | 1.8B | 心理评测 | 🤗HuggingFace | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | / | 申请下载 | / |
-| MindChat-Qwen2-4B🆕 | 4B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen2-4B) | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen2-4B/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat-Qwen2-4B/intro) | 完全开源 | / |
-| MindChat-Qwen-7B | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) | / | 完全开源 | / |
-| MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) | [wisemodel](https://wisemodel.cn/models/X-D-Lab/MindChat) | 完全开源 | ISFJ |
-| *MindChat-Qwen-7B-v3🆕 | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v3) | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) | / | 申请下载 | ISFJ |
-| *MindChat-Qwen-14B🆕 | 14B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-14B) | [<img src="./assets/image/modelscope_logo.png" width="20px" />ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) | / | 申请下载 | ENTJ |
+| MindChat-Qwen2-0_5B🆕 | 0.5B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen2-0_5B) | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen2-0_5B/summary) | ✡️[WiseModel](https://WiseModel.cn/models/X-D-Lab/MindChat-Qwen2-0_5B/intro) | 完全开源 | / |
+| MindChat-Qwen-1_8B🆕 | 1.8B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-1_8B) | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | ✡️[WiseModel](https://WiseModel.cn/models/X-D-Lab/MindChat-Qwen-1_8B) | 完全开源 | ENTP |
+| *MindChat-Evaluator-EN-1_8B🆕 | 1.8B | 心理评测 | 🤗HuggingFace | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-1_8B/summary) | ✡️ | 申请下载 | / |
+| MindChat-Qwen2-4B🆕 | 4B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen2-4B) | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen2-4B/summary) | ✡️[WiseModel](https://WiseModel.cn/models/X-D-Lab/MindChat-Qwen2-4B/intro) | 完全开源 | / |
+| MindChat-Qwen-7B | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B) | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B/summary) | ✡️ | 完全开源 | / |
+| MindChat-Qwen-7B-v2 | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v2) | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v2/summary) | ✡️[WiseModel](https://WiseModel.cn/models/X-D-Lab/MindChat) | 完全开源 | ISFJ |
+| *MindChat-Qwen-7B-v3🆕 | 7B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-7B-v3) | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-7B-v3/summary) | ✡️ | 申请下载 | ISFJ |
+| *MindChat-Qwen-14B🆕 | 14B | 心理抚慰 | 🤗[HuggingFace](https://huggingface.co/X-D-Lab/MindChat-Qwen-14B) | 🤖[ModelScope](https://modelscope.cn/models/X-D-Lab/MindChat-Qwen-14B/summary) | ✡️ | 申请下载 | ENTJ |
 
 **若您预备使用MindChat系列模型, 请务必仔细阅读[模型的说明文档](./docs/model_list.md)**. 更为优质的MindChat模型将在不久的未来持续对外开源开放. 敬请期待!
 
