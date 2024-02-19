@@ -40,6 +40,7 @@
 ## 🎉 项目进展
 
 **🔥更好的模型永远在路上!🔥**
+* Feb 20, 2024: 提供MindChat-Qwen2-0_5B、MindChat-Qwen2-4B、MindChat-Qwen2-7B、MindChat-Qwen2-14B对应的gguf模型
 * Feb 5, 2024: 提供MindChat-Qwen2-0_5B、MindChat-Qwen2-4B模型. 至此MindChat全系列模型规模均已补齐, 能够完全满足不同场景需求
 * Jan 7, 2024: 提供针对5个维度的英文心理评测模型[MindChat-Evaluator-EN-1_8B](https://modelscope.cn/models/X-D-Lab/MindChat-Evaluator-EN-1_8B/summary) 
 * Jan 6, 2024: [MindChat-创空间](https://modelscope.cn/studios/X-D-Lab/MindChat/summary)更新至**MindChat-Qwen-v3** 
