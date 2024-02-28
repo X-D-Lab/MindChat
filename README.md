@@ -199,4 +199,4 @@
 
 如果您对本项目感兴趣, 且愿意和我们交流, 欢迎通过以下二维码入群!
 
-![](./assets/image/wechat_group.jpg)
+![](./assets/image/wechat_group .jpg)
