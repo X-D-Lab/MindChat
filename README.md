@@ -25,7 +25,7 @@
 
 <div align="center">
 
-👋 **联系我们**: [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=wechat&label=微信)](./assets/image/wechat_group.jpg)
+👋 **联系我们**: [![Static Badge](https://img.shields.io/badge/-grey?style=social&logo=wechat&label=微信)](./assets/image/wechat_group.jpg) mindchat0606@163.com
 
 </div>
 
