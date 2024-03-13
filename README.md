@@ -164,7 +164,7 @@
 
 在项目进行中受到以下平台及项目的大力支持, 在此表示感谢!
 
-1. **OpenI启智社区**：提供模型训练算力; 
+1. **[InternStudio](https://studio.intern-ai.org.cn/)、OpenI启智社区**：提供模型训练算力; 
 2. **Qwen、InternLM、Baichuan**提供非常优秀的基础模型; 
 3. **魔搭ModelScope、OpenXLab、Huggingface**：模型存储和体验空间;
 4. 感谢以下媒体及平台对本项目的报道和支持(**以下排名不分先后! 若有遗漏、十分抱歉, 一并感激! 欢迎补充!**):
@@ -175,7 +175,6 @@
 
 此外, 对参与本项目数据收集、标注、清洗的所有同学表示衷心的感谢!
 <details>
-
 <summary>相关工作引用</summary>
 
 ```
