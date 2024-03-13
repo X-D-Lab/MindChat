@@ -165,7 +165,7 @@
 在项目进行中受到以下平台及项目的大力支持, 在此表示感谢!
 
 1. **[InternStudio](https://studio.intern-ai.org.cn/)、OpenI启智社区**：提供模型训练算力; 
-2. **Qwen、InternLM、Baichuan**提供非常优秀的基础模型; 
+2. **Qwen、InternLM**：提供非常优秀的基础模型; 
 3. **魔搭ModelScope、OpenXLab、Huggingface**：模型存储和体验空间;
 4. 感谢以下媒体及平台对本项目的报道和支持(**以下排名不分先后! 若有遗漏、十分抱歉, 一并感激! 欢迎补充!**):
 [科学网](https://news.sciencenet.cn/htmlnews/2023/12/513458.shtm?bsh_bid=5975565683)、[央广网](https://finance.cnr.cn/jjgd/20231203/t20231203_526506682.shtml)、[机器之心](https://mp.weixin.qq.com/s/Q7vxpNr3ZUD2rhjQN_qZDA)、[量子位](https://mp.weixin.qq.com/s/rbvyMrEgpuXiZhKNXhHbnQ)、[新智元](https://mp.weixin.qq.com/s/mfRhGz_p4tPB-mt9QMokgA)、[36氪](https://36kr.com/p/2542089979651585)、[腾讯网](https://new.qq.com/rain/a/20231201A0674X00)、[阿里云](https://www.bilibili.com/video/BV1Sc411q7oU/?share_source=copy_web&vd_source=8162f92b2a1a94035ca9e4e0f6e1860a)、百度AI、[​硅星人Pro](https://mp.weixin.qq.com/s/E817viJ3NQ-tJPnUipGmLw)、[魔搭ModelScope](https://mp.weixin.qq.com/s/frJwp-kLuF_aT_vt8V6hJQ)、[OpenMMLab](https://mp.weixin.qq.com/s/wOQP2A0nm0OGaiwzdJ9wPg)、[时代周报](https://time-weekly.com/post/307214)、[财经](https://www.mycaijing.com/article/detail/506655?source_id=40)、[海克财经](https://mp.weixin.qq.com/s/rZam2ck9Qtw3nCJa_lMBiw)、[电子工程专辑](https://mp.weixin.qq.com/s/Jyndd2b3XrKhbFCs5AWC5w)、[网易号](https://www.163.com/dy/article/IKSQUGEB0514A42S.html)、[数据猿DataYuan](https://baijiahao.baidu.com/s?id=1784439473248756071)、[界面新闻](https://www.jiemian.com/article/10489093.html)、
