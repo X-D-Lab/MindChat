@@ -40,6 +40,8 @@
 ## 🎉 项目进展
 
 **🔥更好的模型永远在路上!🔥**
+* Mar 15, 2024: 提供MindChat在手机端应用的案例展示
+* Mar 12, 2024: 提供MindChat-InternLM2-1_8B、MindChat-InternLM2-7B模型
 * Feb 20, 2024: 提供MindChat-Qwen2-0_5B、MindChat-Qwen2-4B、MindChat-Qwen2-7B、MindChat-Qwen2-14B对应的gguf模型
 * Feb 5, 2024: 提供MindChat-Qwen2-0_5B、MindChat-Qwen2-4B模型. 至此MindChat全系列模型规模均已补齐, 能够完全满足不同场景需求
 * Jan 7, 2024: 提供针对5个维度的英文心理评测模型[MindChat-Evaluator-EN-1_8B](https://modelscope.cn/models/X-D-Lab/MindChat-Evaluator-EN-1_8B/summary) 
@@ -82,7 +84,7 @@
 
 ## ☁️ 数据构造
 
-目前MindChat的开源模型采用了基于如下流程构造的**约20万条的高质量多轮心理对话数据**进行训练, 涵盖**工作、家庭、学习、生活、社交、安全**等多个方面 
+目前MindChat的开源模型采用了基于如下流程构造的**约100万条的高质量多轮心理对话数据**进行训练, 涵盖**工作、家庭、学习、生活、社交、安全**等多个方面, 由于特殊的数据构造规则，MindChat能以更加**共情**、**引导**的方式与用户**沟通**，区别于各自竞品所表现出的“问答”方式。 
 ![](./assets/image/datasets_flow_chart.jpg) 
 ![](./assets/image/word_cloud.png)
 
@@ -90,7 +92,7 @@
 
 ## 📣 对话案例
 
-目前我们对模型进行了**学习**、**家庭**、**工作**、**朋友**、**安全**这五个方面进行了测试, 后续将整理并提供更为全面的评测结果.
+目前我们对模型进行了**学习**、**家庭**、**工作**、**两性**等方面进行了测试, 后续将整理并提供更为全面的评测结果.
 
 以下是部分案例的摘录, 更多对话案例及比较请见[**此处**](./assets/Dialogue_cases/).
 
