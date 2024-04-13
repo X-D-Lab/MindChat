@@ -40,6 +40,8 @@
 ## 🎉 项目进展
 
 **🔥更好的模型永远在路上!🔥**
+
+* Mar 27, 2024: MindChat进入机器之心[SOTA模型](https://sota.jiqizhixin.com/project/mindchat) 
 * Mar 15, 2024: 提供MindChat在手机端应用的案例展示
 * Mar 12, 2024: 提供MindChat-InternLM2-1_8B、MindChat-InternLM2-7B模型
 * Feb 20, 2024: 提供MindChat-Qwen2-0_5B、MindChat-Qwen2-4B、MindChat-Qwen2-7B、MindChat-Qwen2-14B对应的gguf模型
